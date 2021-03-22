@@ -1,0 +1,28 @@
+{
+  "name": "server-app",
+  "version": "0.1.0",
+  "description": "Express, passport, db etc for web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrkn/server-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrkn/server-app/issues"
+  },
+  "homepage": "https://github.com/nrkn/server-app#readme",
+  "dependencies": {
+    "dom-app": "^0.1.4",
+    "jsdom": "^16.5.1",
+    "jsdom-global": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/jsdom-global": "^3.0.2"
+  }
+}
