@@ -1,5 +1,5 @@
 {
-  "name": "server-app",
+  "name": "@nrkn/server-app",
   "version": "0.1.0",
   "description": "Express, passport, db etc for web apps",
   "main": "/dist/index.js",
